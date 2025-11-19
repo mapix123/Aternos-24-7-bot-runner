@@ -38,7 +38,7 @@ Paste the Replit webview URL.
 
 Create the monitor (this keeps Replit awake).
 
-Config (in index.js)
+Config (in mainfile.js)
 
 You can edit:
 
@@ -60,3 +60,4 @@ Webpage GUI lets you start / stop / reconnect the bot.
 
 
 UptimeRobot keeps the bot online 24/7.
+
