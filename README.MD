@@ -18,7 +18,7 @@ Copy your server IP.
 
 Make a new Replit project.
 
-Paste your index.js and main.html code into it.
+Paste your mainfile.js and main.html code into it.
 
 Click Run.
 
@@ -57,5 +57,6 @@ The bot logs into your Aternos server automatically.
 Reconnects on its own.
 
 Webpage GUI lets you start / stop / reconnect the bot.
+
 
 UptimeRobot keeps the bot online 24/7.
